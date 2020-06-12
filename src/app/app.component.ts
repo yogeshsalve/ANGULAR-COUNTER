@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title: string = 'Counter App';
-
+  name: string = 'Yogesh Salve';
 
   count: number = 0;
 
